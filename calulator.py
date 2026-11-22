@@ -16,7 +16,7 @@ multiply=num1*num2
 
 print(f"The sum of{num1} and {num2} is:{sum_result}")
 print(f"The difference when subtracting{num2} from {num1} is: diff_result}")
-print(f"The product of {num2} from {num1} is:{multiply}")Ss
+print(f"The product of {num2} from {num1} is:{multiply}")
 
 
 
